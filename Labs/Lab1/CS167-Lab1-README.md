@@ -52,4 +52,4 @@
 
 **you	5**
 
-* (Q5) Does it run? Why or why not? **It does run, because it takes in the .txt files as proper parameters, which is why the program runs through Hadoop**
+* (Q5) Does it run? Why or why not? **It does run, because it takes in the .txt files as proper arguments, which is why the program runs through Hadoop**
