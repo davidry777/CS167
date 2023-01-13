@@ -367,7 +367,7 @@ Try the following method if you see red errors (likely on Windows).
       ```
 
   - If the IDE asks for importing the changes in your pom.xml file, press "Import Changes" to accept the changes.
-    - In newer version of IntelliJ, you don't see this promot. Instead, you may see a floating M icon, click it to **Load Maven Changes**.  
+    - In newer versions of IntelliJ, you don't see this promot. Instead, you may see a floating M icon, click it to **Load Maven Changes**.  
 
 ---
 
