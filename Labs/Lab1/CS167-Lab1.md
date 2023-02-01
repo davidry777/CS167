@@ -447,6 +447,8 @@ Try the following method if you see red errors (likely on Windows).
 
 - ***(Q3) What do you see at the output?***
 
+*Hint:* It will fail with an error. Report this error.
+
 - Create a new text file named "input.txt" in the project folder (same level as "src"), and add the following sample content to it.
 
     ```text
@@ -483,6 +485,8 @@ Try the following method if you see red errors (likely on Windows).
   ```
 
 - ***(Q5) Does it run? Why or why not?***
+
+*Hint:* Report the error and explain in a few words what it means.
 
 - Try to run the program using the following command:
 
